@@ -9,10 +9,6 @@
  * usage :
  * Install ajax fake to jquery
  * 
- * <pre>
- * jasmine.Ajax.useMock();
- * </pre>
- * 
  * when you use ajax request from server ,you can use the interface mock
  * successful response which mock-ajax had implement:
  * 
